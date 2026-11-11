@@ -76,10 +76,7 @@ Ambiente colaborativo por padrão: trocar ideia com o time, destravar tarefas e 
 
 <div align="center">
 
-<p>
-  <img height="240" src="./profile/stats.svg" alt="Estatísticas" />
-  <img height="240" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=seiti-kg&theme=dark&background=09090b&border=27272a&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a" alt="Sequência de contribuições" />
 
 </div>
 
