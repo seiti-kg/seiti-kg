@@ -20,7 +20,7 @@
 
 <table width="100%">
 <tr>
-<td width="680" valign="top">
+<td width="58%" valign="top">
 <strong>Linguagens & Frameworks</strong><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -58,8 +58,8 @@
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
 <img src="https://img.shields.io/badge/opencode-0F172A?style=flat-square" alt="opencode" />
 </td>
-<td width="268" valign="middle" align="center">
-<img width="220" src="./assets/ascii-butterfly.svg" alt="Borboleta em ASCII" />
+<td width="42%" valign="middle" align="center">
+<img width="100%" src="./assets/ascii-art.svg" alt="Escultura em ASCII" />
 </td>
 </tr>
 </table>
