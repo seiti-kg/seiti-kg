@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/opencode-0F172A?style=flat-square" alt="opencode" />
 </td>
 <td width="268" valign="middle" align="center">
-<img width="220" src="./assets/ascii-butterfly.gif" alt="Borboleta em ASCII" />
+<img width="220" src="./assets/ascii-butterfly.svg" alt="Borboleta em ASCII" />
 </td>
 </tr>
 </table>
