@@ -9,7 +9,7 @@
 <td width="16%" valign="middle" align="center"><img width="96" src="./assets/pudim-cafe.svg" alt="Pudim com café" /></td>
 <td width="61%" valign="middle" align="left">
 <p><strong>Engenharia de Backend Python &amp; IA</strong></p>
-<p>Gosto de resolver problemas de ponta a ponta: transito bem entre o lado experimental da IA — ajustar um LLM ou arquitetar um agente — e a engenharia clássica de backend.</p>
+<p>Gosto de resolver problemas de ponta a ponta: transito bem entre o lado experimental da IA, seja ajustar um LLM ou arquitetar um agente, e a engenharia clássica de backend</p>
 <div>Tenho interesse em colaborar em equipe, aprender assuntos e tecnologias novas, e prefiro soluções claras.</div>
 </td>
 <td width="23%" valign="middle" align="right"><img width="190" src="./assets/seiti-kg-pc.svg" alt="Seiti no computador" /></td>
